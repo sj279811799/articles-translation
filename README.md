@@ -8,4 +8,4 @@
 
 # License
 
-[MIT](https://github.com/neal1991/articles-translator/blob/master/LICENSE)
+[MIT](https://github.com/sj279811799/articles-translation/blob/master/LICENSE)

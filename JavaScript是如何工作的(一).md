@@ -4,6 +4,9 @@
 >
 > 译者：[sj279811799](https://github.com/sj279811799)
 >
-> 这系列文章是在[neal1991](https://github.com/neal1991)看到的，但只翻译了三篇，于是就打算把一系列文章自己重新翻译一遍，翻译模板也是参考[neal1991](https://github.com/neal1991)大神的。
+> 来源：[neal1991](https://github.com/neal1991)
 >
 > LICENSE: [MIT](https://opensource.org/licenses/MIT)
+
+随着JavaScript越来越流行，团队在多个层面对其进行了使用 - 前端，后端，混合应用，嵌入式设备等等。
+
